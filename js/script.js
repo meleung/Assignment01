@@ -122,6 +122,7 @@ window.console.log(undefinedValue);
 */
 
 // STEP 10
+/*
 // Use the typeof operator on various literals to return the following types within the console window: string, number, Boolean, object, and undefined.
 window.console.log(typeof String());
 window.console.log(typeof Number());
@@ -129,8 +130,14 @@ window.console.log(typeof Boolean());
 window.console.log(typeof {});
 var undefinedValue;
 window.console.log(typeof undefinedValue);
+*/
 
 // STEP 11
+// Within an alert box, use the concatenation operator (+) to display text in the alert box that appears as follows: 
+// Hello Zak Ruvalcaba, welcome to the JavaScript class!
+// Substitute my name for your name. Although not necessary in practice, I want you to use 2 concatenation operators to construct this string of text. One after the text “Hello” and a second one after your name and before the comma.
+window.alert("Hello " + "Matthew Leung" + ", welcome to the JavaScript class!");
+
 // STEP 12
 // STEP 13
 // STEP 14
