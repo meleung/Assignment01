@@ -230,10 +230,15 @@ window.console.log(x);
 */
 
 // STEP 21
+/*
 // Using a set of Comparison and Logical operators, write an application that evaluates to true and displays the result within the console window.
 window.console.log(1 === 1 && 2 > 1);
+*/
 
 // STEP 22
+// Using a set of Comparison and Logical operators, write an application that evaluates to false and displays the result within the console window. The application cannot use the same operators used in the previous application.
+window.console.log(1 === 0 || 2 <= 1);
+
 // STEP 23
 // STEP 24
 // STEP 25
