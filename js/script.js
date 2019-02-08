@@ -2,6 +2,7 @@
 /* eslint-env browser */
 
 // STEP 1
+/*
 // Convert the following identifiers to Camel Case notation:
 // var some_month;
 var someMonth;
@@ -18,8 +19,22 @@ var summerMonth;
 
 // var MyLibrary-function
 var myLibraryFunction;
+*/
 
 // STEP 2
+// Give me an example of a numeric literal expression, a string literal expression, a Boolean literal expression, and a null literal expression.
+// numeric literal expression
+var numericLiteral = 3.14;
+
+// string literal expression
+var stringLiteral = "Hello world";
+
+// Boolean literal expression
+var booleanLiteral = true;
+
+// null literal expression
+var nullLiteral = null;
+
 // STEP 3
 // STEP 4
 // STEP 5
