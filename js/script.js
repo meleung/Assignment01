@@ -85,6 +85,7 @@ window.console.log(displayResult);
 */
 
 // STEP 7
+/*
 // Create two variables.
 var part1, part2;
 
@@ -95,8 +96,18 @@ window.console.log(part1);
 // For the second variable, add a number and a Boolean and display the coerced result.
 part2 = 8 + false;
 window.console.log(part2);
+*/
 
 // STEP 8
+// Is the following string literal valid?
+// var someString = 'Who once said, "Only two things are infinite, the universe and human stupidity, and I'm not sure about the former."';
+// No.
+
+// If not, how would you fix it?
+// An escape backslash is needed to ignore the apostrophe in "I'm".
+var someString = 'Who once said, "Only two things are infinite, the universe and human stupidity, and I\'m not sure about the former."';
+window.console.log(someString);
+
 // STEP 9
 // STEP 10
 // STEP 11
