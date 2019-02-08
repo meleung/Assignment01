@@ -236,9 +236,15 @@ window.console.log(1 === 1 && 2 > 1);
 */
 
 // STEP 22
+/*
 // Using a set of Comparison and Logical operators, write an application that evaluates to false and displays the result within the console window. The application cannot use the same operators used in the previous application.
 window.console.log(1 === 0 || 2 <= 1);
+*/
 
 // STEP 23
+// Use the new operator to create a new Object called “widget”. Within the console window, use the typeof operator to display the type of variable widget is.
+var widget = new Object();
+window.console.log(typeof widget);
+
 // STEP 24
 // STEP 25
