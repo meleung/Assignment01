@@ -48,6 +48,7 @@ var example2 = "You may have " + example1 + " wishes.";
 */
 
 // STEP 4
+/*
 // Declare (but do not assign) 9 variables for the following identifiers: First Name, Last Name, Address, City, State, Zip Code, Your Age, Referral Source, May We Contact You. Use Camel Casing and Hungarian Notation when naming your identifiers.
 var strFirstName;
 var strLastName;
@@ -58,8 +59,21 @@ var iZipCode;
 var iYourAge;
 var strReferralSource;
 var bMayWeContactYou;
+*/
 
 // STEP 5
+// Take the 9 variables that you created above and demonstrate 3 methods for declaring and assigning values to those variables.
+var strFirstName;
+strFirstName = "Matthew";
+var strLastName;
+strLastName = "Leung";
+var strAddress = 642 + " " + "Evergreen Terrace";
+var strCity = "Springfield";
+var strState = "NA";
+var iZipCode = 90210;
+var iYourAge = 35;
+var strReferralSource = "SDCE", bMayWeContactYou = false;
+
 // STEP 6
 // STEP 7
 // STEP 8
