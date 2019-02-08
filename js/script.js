@@ -150,14 +150,23 @@ window.alert("Hello " + name + ", welcome to the JavaScript class!");
 */
 
 // STEP 13
+/*
 // Declare a variable called course and set it equal to “JavaScript”.
 var course = "JavaScript";
 
 // Rework your alert string so that it displays the string of text but using the variables as opposed to hard coded text.
 var name = "Matthew Leung";
 window.alert("Hello " + name + ", welcome to the " + course + " class!");
+*/
 
 // STEP 14
+// Rework the above string so that a line break is added right before the word “Welcome”. Your alert box should display as follows:
+// Hello Zak Ruvalcaba.
+// Welcome to the JavaScript class!
+var course = "JavaScript";
+var name = "Matthew Leung";
+window.alert("Hello " + name + ".\nWelcome to the " + course + " class!");
+
 // STEP 15
 // STEP 16
 // STEP 17
