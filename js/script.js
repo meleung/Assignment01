@@ -77,12 +77,25 @@ var strReferralSource = "SDCE", bMayWeContactYou = false;
 */
 
 // STEP 6
+/*
 // Create a variable. Add a number and a string and display the coerced result in the browser’s console window.
 var displayResult;
 displayResult = 21 + " Jump Street";
 window.console.log(displayResult);
+*/
 
 // STEP 7
+// Create two variables.
+var part1, part2;
+
+// For the first variable, add a Boolean and a string and display the coerced result.
+part1 = true + " Lies";
+window.console.log(part1);
+
+// For the second variable, add a number and a Boolean and display the coerced result.
+part2 = 8 + false;
+window.console.log(part2);
+
 // STEP 8
 // STEP 9
 // STEP 10
