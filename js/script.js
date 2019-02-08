@@ -22,6 +22,7 @@ var myLibraryFunction;
 */
 
 // STEP 2
+/*
 // Give me an example of a numeric literal expression, a string literal expression, a Boolean literal expression, and a null literal expression.
 // numeric literal expression
 var numericLiteral = 3.14;
@@ -34,8 +35,16 @@ var booleanLiteral = true;
 
 // null literal expression
 var nullLiteral = null;
+*/
 
 // STEP 3
+// Give me two examples of complex / variable expressions.
+// Example 1
+var example1 = 30 / 2 - 12;
+
+// Example 2
+var example2 = "You may have " + example1 + " wishes.";
+
 // STEP 4
 // STEP 5
 // STEP 6
