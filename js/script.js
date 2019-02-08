@@ -186,6 +186,7 @@ window.alert("Hello " + name + ".\nWelcome to the " + course + " class!");
 */
 
 // STEP 17
+/*
 // Assign the value 10 to x on a new line.
 var x;
 x = 10;
@@ -196,8 +197,16 @@ y = 20;
 
 // Display the sum of those two numbers in the console window.
 window.console.log(x + y);
+*/
 
 // STEP 18
+// Declare a variable called x and assign it a value of 20.
+var x = 20;
+
+// Add and assign 20 to that variable and display the result in the console window.
+x += 20;
+window.console.log(x);
+
 // STEP 19
 // STEP 20
 // STEP 21
