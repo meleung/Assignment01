@@ -133,12 +133,20 @@ window.console.log(typeof undefinedValue);
 */
 
 // STEP 11
+/*
 // Within an alert box, use the concatenation operator (+) to display text in the alert box that appears as follows: 
 // Hello Zak Ruvalcaba, welcome to the JavaScript class!
 // Substitute my name for your name. Although not necessary in practice, I want you to use 2 concatenation operators to construct this string of text. One after the text “Hello” and a second one after your name and before the comma.
 window.alert("Hello " + "Matthew Leung" + ", welcome to the JavaScript class!");
+*/
 
 // STEP 12
+// Declare a variable called name and set it equal to your name.
+var name = "Matthew Leung";
+
+// Substitute your name in the previous alert string with the variable instead.
+window.alert("Hello " + name + ", welcome to the JavaScript class!");
+
 // STEP 13
 // STEP 14
 // STEP 15
