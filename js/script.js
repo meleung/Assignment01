@@ -62,6 +62,7 @@ var bMayWeContactYou;
 */
 
 // STEP 5
+/*
 // Take the 9 variables that you created above and demonstrate 3 methods for declaring and assigning values to those variables.
 var strFirstName;
 strFirstName = "Matthew";
@@ -73,8 +74,14 @@ var strState = "NA";
 var iZipCode = 90210;
 var iYourAge = 35;
 var strReferralSource = "SDCE", bMayWeContactYou = false;
+*/
 
 // STEP 6
+// Create a variable. Add a number and a string and display the coerced result in the browser’s console window.
+var displayResult;
+displayResult = 21 + " Jump Street";
+window.console.log(displayResult);
+
 // STEP 7
 // STEP 8
 // STEP 9
