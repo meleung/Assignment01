@@ -38,14 +38,27 @@ var nullLiteral = null;
 */
 
 // STEP 3
+/*
 // Give me two examples of complex / variable expressions.
 // Example 1
 var example1 = 30 / 2 - 12;
 
 // Example 2
 var example2 = "You may have " + example1 + " wishes.";
+*/
 
 // STEP 4
+// Declare (but do not assign) 9 variables for the following identifiers: First Name, Last Name, Address, City, State, Zip Code, Your Age, Referral Source, May We Contact You. Use Camel Casing and Hungarian Notation when naming your identifiers.
+var strFirstName;
+var strLastName;
+var strAddress;
+var strCity;
+var strState;
+var iZipCode;
+var iYourAge;
+var strReferralSource;
+var bMayWeContactYou;
+
 // STEP 5
 // STEP 6
 // STEP 7
