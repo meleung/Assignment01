@@ -256,6 +256,8 @@ window.console.log(widget instanceof Object);
 */
 
 // STEP 25
+/*
 // Without modifying the variable declaration and assignment, rewrite the previous application so that it returns false.
 var widget = new Object();
 window.console.log(widget instanceof String);
+*/
