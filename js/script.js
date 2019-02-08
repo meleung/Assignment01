@@ -170,12 +170,19 @@ window.alert("Hello " + name + ".\nWelcome to the " + course + " class!");
 */
 
 // STEP 15
+/*
 // Replace the hardcoded string of your name with a prompt that asks the user for their name. The prompt’s response will now be captured in the name variable.
 var course = "JavaScript";
 var name = window.prompt("Please enter your name");
 window.alert("Hello " + name + ".\nWelcome to the " + course + " class!");
+*/
 
 // STEP 16
+// Replace the hardcoded string of the class you are taking with a prompt that asks the user for the class they are taking. The prompt’s response will now be captured in the course variable.
+var name = window.prompt("Please enter your name");
+var course = window.prompt("Which course are you taking?");
+window.alert("Hello " + name + ".\nWelcome to the " + course + " class!");
+
 // STEP 17
 // STEP 18
 // STEP 19
