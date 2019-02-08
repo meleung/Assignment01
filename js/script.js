@@ -210,14 +210,23 @@ window.console.log(x);
 */
 
 // STEP 19
+/*
 // Declare a variable called x and assign it a value of 20.
 var x = 20;
 
 // Multiply and assign 5 to that variable and display the result in the console window.
 x *= 5;
 window.console.log(x);
+*/
 
 // STEP 20
+// Declare a variable called x and assign it a value that equals the remainder of 20 divided by 3.
+var x = 20 % 3;
+
+// Divide and assign 1 to that variable and display the result in the console window. 
+x /= 1;
+window.console.log(x);
+
 // STEP 21
 // STEP 22
 // STEP 23
