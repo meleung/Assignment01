@@ -99,6 +99,7 @@ window.console.log(part2);
 */
 
 // STEP 8
+/*
 // Is the following string literal valid?
 // var someString = 'Who once said, "Only two things are infinite, the universe and human stupidity, and I'm not sure about the former."';
 // No.
@@ -107,8 +108,17 @@ window.console.log(part2);
 // An escape backslash is needed to ignore the apostrophe in "I'm".
 var someString = 'Who once said, "Only two things are infinite, the universe and human stupidity, and I\'m not sure about the former."';
 window.console.log(someString);
+*/
 
 // STEP 9
+// Create a variable that produces a null value in the console window.
+var nullValue = null;
+window.console.log(nullValue);
+
+// Create a variable that produces an undefined value in the console window.
+var undefinedValue;
+window.console.log(undefinedValue);
+
 // STEP 10
 // STEP 11
 // STEP 12
