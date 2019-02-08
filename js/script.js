@@ -141,13 +141,22 @@ window.alert("Hello " + "Matthew Leung" + ", welcome to the JavaScript class!");
 */
 
 // STEP 12
+/*
 // Declare a variable called name and set it equal to your name.
 var name = "Matthew Leung";
 
 // Substitute your name in the previous alert string with the variable instead.
 window.alert("Hello " + name + ", welcome to the JavaScript class!");
+*/
 
 // STEP 13
+// Declare a variable called course and set it equal to “JavaScript”.
+var course = "JavaScript";
+
+// Rework your alert string so that it displays the string of text but using the variables as opposed to hard coded text.
+var name = "Matthew Leung";
+window.alert("Hello " + name + ", welcome to the " + course + " class!");
+
 // STEP 14
 // STEP 15
 // STEP 16
