@@ -178,12 +178,25 @@ window.alert("Hello " + name + ".\nWelcome to the " + course + " class!");
 */
 
 // STEP 16
+/*
 // Replace the hardcoded string of the class you are taking with a prompt that asks the user for the class they are taking. The prompt’s response will now be captured in the course variable.
 var name = window.prompt("Please enter your name");
 var course = window.prompt("Which course are you taking?");
 window.alert("Hello " + name + ".\nWelcome to the " + course + " class!");
+*/
 
 // STEP 17
+// Assign the value 10 to x on a new line.
+var x;
+x = 10;
+
+// Assign the value 20 to y on a new line.
+var y;
+y = 20;
+
+// Display the sum of those two numbers in the console window.
+window.console.log(x + y);
+
 // STEP 18
 // STEP 19
 // STEP 20
