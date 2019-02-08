@@ -2,6 +2,23 @@
 /* eslint-env browser */
 
 // STEP 1
+// Convert the following identifiers to Camel Case notation:
+// var some_month;
+var someMonth;
+
+// function the Month();
+function theMonth() {
+}
+
+// var current-month;
+var currentMonth;
+
+// var summer_month;
+var summerMonth;
+
+// var MyLibrary-function
+var myLibraryFunction;
+
 // STEP 2
 // STEP 3
 // STEP 4
