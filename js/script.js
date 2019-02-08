@@ -249,8 +249,13 @@ window.console.log(typeof widget);
 */
 
 // STEP 24
+/*
 // Using the instanceof operator, write an application that returns true within the console window if the widget variable is an instance of an object.
 var widget = new Object();
 window.console.log(widget instanceof Object);
+*/
 
 // STEP 25
+// Without modifying the variable declaration and assignment, rewrite the previous application so that it returns false.
+var widget = new Object();
+window.console.log(widget instanceof String);
