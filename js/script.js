@@ -242,9 +242,15 @@ window.console.log(1 === 0 || 2 <= 1);
 */
 
 // STEP 23
+/*
 // Use the new operator to create a new Object called “widget”. Within the console window, use the typeof operator to display the type of variable widget is.
 var widget = new Object();
 window.console.log(typeof widget);
+*/
 
 // STEP 24
+// Using the instanceof operator, write an application that returns true within the console window if the widget variable is an instance of an object.
+var widget = new Object();
+window.console.log(widget instanceof Object);
+
 // STEP 25
