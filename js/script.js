@@ -1,4 +1,5 @@
 /* eslint-disable no-unused-vars */
+/* eslint-env browser */
 
 // STEP 1
 // STEP 2
