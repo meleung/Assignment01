@@ -220,14 +220,19 @@ window.console.log(x);
 */
 
 // STEP 20
+/*
 // Declare a variable called x and assign it a value that equals the remainder of 20 divided by 3.
 var x = 20 % 3;
 
 // Divide and assign 1 to that variable and display the result in the console window. 
 x /= 1;
 window.console.log(x);
+*/
 
 // STEP 21
+// Using a set of Comparison and Logical operators, write an application that evaluates to true and displays the result within the console window.
+window.console.log(1 === 1 && 2 > 1);
+
 // STEP 22
 // STEP 23
 // STEP 24
