@@ -111,6 +111,7 @@ window.console.log(someString);
 */
 
 // STEP 9
+/*
 // Create a variable that produces a null value in the console window.
 var nullValue = null;
 window.console.log(nullValue);
@@ -118,8 +119,17 @@ window.console.log(nullValue);
 // Create a variable that produces an undefined value in the console window.
 var undefinedValue;
 window.console.log(undefinedValue);
+*/
 
 // STEP 10
+// Use the typeof operator on various literals to return the following types within the console window: string, number, Boolean, object, and undefined.
+window.console.log(typeof String());
+window.console.log(typeof Number());
+window.console.log(typeof Boolean());
+window.console.log(typeof {});
+var undefinedValue;
+window.console.log(typeof undefinedValue);
+
 // STEP 11
 // STEP 12
 // STEP 13
