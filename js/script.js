@@ -200,14 +200,23 @@ window.console.log(x + y);
 */
 
 // STEP 18
+/*
 // Declare a variable called x and assign it a value of 20.
 var x = 20;
 
 // Add and assign 20 to that variable and display the result in the console window.
 x += 20;
 window.console.log(x);
+*/
 
 // STEP 19
+// Declare a variable called x and assign it a value of 20.
+var x = 20;
+
+// Multiply and assign 5 to that variable and display the result in the console window.
+x *= 5;
+window.console.log(x);
+
 // STEP 20
 // STEP 21
 // STEP 22
