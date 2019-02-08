@@ -160,14 +160,21 @@ window.alert("Hello " + name + ", welcome to the " + course + " class!");
 */
 
 // STEP 14
+/*
 // Rework the above string so that a line break is added right before the word “Welcome”. Your alert box should display as follows:
 // Hello Zak Ruvalcaba.
 // Welcome to the JavaScript class!
 var course = "JavaScript";
 var name = "Matthew Leung";
 window.alert("Hello " + name + ".\nWelcome to the " + course + " class!");
+*/
 
 // STEP 15
+// Replace the hardcoded string of your name with a prompt that asks the user for their name. The prompt’s response will now be captured in the name variable.
+var course = "JavaScript";
+var name = window.prompt("Please enter your name");
+window.alert("Hello " + name + ".\nWelcome to the " + course + " class!");
+
 // STEP 16
 // STEP 17
 // STEP 18
